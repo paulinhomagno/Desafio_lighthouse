@@ -2,8 +2,9 @@
 <p align="justify">Este projeto de ciência de dados visa desenvolver a resolução do Desafio proposto pela Indicium no programa Lighthouse. 
 As informações e detalhes do Desafio seguem no arquivo de word "[Lighthouse] Desafio Cientista de Dados - Manutenção preventiva". </p>
 <p align="justify">
-Este projeto foi desenvolvido no notebook em python. <br>O modelo criado realiza a predição de falhas em máquinas a partir de variáveis da base dados.  
-Este identifica possíveis falhas através da função 'function_transform_type' armazenada em arquivo pickle, esta função utiliza outras funções e modelos preditivos, também armazenados em arquivos pickle. A função recebe os seguintes dados (descrição no arquivo word): udi product_id, type air_temperature_k, process_temperature_k, rotational_speed_rpm e torque_nm tool_wear_min e retorna o tipo de falha prevista ou sem falha.
+Este projeto foi desenvolvido no notebook em python e suas bibliotecas de análises, visualizações e modelagens preditiva.<br>
+O modelo criado realiza a predição de falhas em máquinas a partir de variáveis da base dados. <br> 
+Ele identifica possíveis falhas através da função 'function_transform_type' armazenada em arquivo pickle, esta função utiliza outras funções e modelos preditivos, também armazenados em arquivos pickle. A função recebe os seguintes dados (descrição no arquivo word): udi product_id, type air_temperature_k, process_temperature_k, rotational_speed_rpm e torque_nm tool_wear_min e retorna o tipo de falha prevista ou sem falha.
 </p>
 
 Segue as informações dos arquivos presentes neste repositório:  
