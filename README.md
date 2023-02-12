@@ -1,5 +1,5 @@
 <h1 align="center">Desafio Lighthouse</h1>
-<p align="justify">Este desafio de ciência de dados visa desenvolver a resolução do Desafio proposto pela Indicium no programa Lighthouse. 
+<p align="justify">Este projeto de ciência de dados visa desenvolver a resolução do Desafio proposto pela Indicium no programa Lighthouse. 
 As informações e detalhes do Desafio seguem no arquivo de word "[Lighthouse] Desafio Cientista de Dados - Manutenção preventiva". </p>
 <p align="justify">
 O projeto foi desenvolvido no notebook em python e suas bibliotecas de análises, visualizações e modelagens preditiva.<br>
