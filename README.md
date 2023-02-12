@@ -1,4 +1,4 @@
-<p align="center" ># Desafio Lighthouse</p>
+<p align="center" >#Desafio Lighthouse</p>
 <p align="justify">Este projeto de ciência de dados visa desenvolver a resolução do Desafio proposto pela Indicium no programa Lighthouse. 
 As informações e detalhes do Desafio seguem no arquivo de word "[Lighthouse] Desafio Cientista de Dados - Manutenção preventiva". </p>
 <p align="justify">
