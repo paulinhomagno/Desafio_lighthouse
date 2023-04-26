@@ -4,7 +4,7 @@ As informações e detalhes do Desafio seguem no arquivo de word "[Lighthouse] D
 <p align="justify">
 O projeto foi desenvolvido no notebook em python e suas bibliotecas de análises, visualizações e modelagens preditiva.<br>
 O modelo criado realiza a predição de falhas em máquinas a partir de variáveis da base dados. <br> 
-Este projeto obteve êxito em identificar se há falha e o tipo de falha com média de 84% de acerto, e de todas as falhas o modelo consegue prever 89%.  
+Este projeto obteve êxito em identificar se há falha e o tipo de falha com média de 84% de acerto, e de todas as máquinas com falha o modelo consegue prever 89%.  
 
 O modelo preditivo identifica possíveis falhas através da função 'function_transform_type' armazenada em arquivo pickle, esta função utiliza outras funções e modelos preditivos, também armazenados em arquivos pickle. A função recebe os seguintes dados (descrição no arquivo word): udi product_id, type air_temperature_k, process_temperature_k, rotational_speed_rpm e torque_nm tool_wear_min e retorna o tipo de falha prevista ou sem falha.
 </p>
